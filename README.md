@@ -15,6 +15,6 @@ Based on project goal, analysis is structured as follows:
 
 ## Inspiration
 
-Studying @Turing College
+Studying @TuringCollege
 
 
